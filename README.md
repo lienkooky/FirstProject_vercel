@@ -10,7 +10,7 @@
 
 '어디로 가야 안전하게 소중한 추억을 만들 수 있을까?' 라는 생각이 들었던 적이 있나요?
 
-**_[FourmenAir](http://fourmenair.s3-website.ap-northeast-2.amazonaws.com/)_** 가 추천 (˵ ͡~ ͜ʖ ͡°˵)ﾉ 해드립니다!
+**_[FourmenAir](https://first-project-vercel.vercel.app/)_** 가 추천 (˵ ͡~ ͜ʖ ͡°˵)ﾉ 해드립니다!
 
 가족, 친구, 연인과 "즐겁고 낭만있는 추억" 을 만들어 보는 건 어떨까요?
 
